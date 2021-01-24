@@ -1,0 +1,3 @@
+rootProject.name='javaplayground-root'
+
+include ':javaplayground'

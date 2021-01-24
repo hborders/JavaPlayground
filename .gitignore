@@ -1,0 +1,16 @@
+*.iml
+
+.externalNativeBuild
+.gradle
+
+.idea/assetWizardSettings.xml
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/navEditor.xml
+
+.DS_Store
+
+build
+captures
+local.properties
